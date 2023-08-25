@@ -1,0 +1,24 @@
+.product{
+    margin-left: 30%;
+}
+.inputBox{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+}
+.appButton{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 23px;
+}
